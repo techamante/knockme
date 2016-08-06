@@ -1,0 +1,19 @@
+{
+  "name": "knammy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.3",
+    "typescript": "^1.8.10"
+  }
+}

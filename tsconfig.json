@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "amd",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceRoot": "./src/",
+        "rootDir": "./src/",
+        "sourceMap": true,
+        "declaration": true,
+        "experimentalDecorators": true
+    }  
+}
